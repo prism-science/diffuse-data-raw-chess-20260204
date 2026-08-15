@@ -1,0 +1,1 @@
+../../../.git/annex/objects/GJ/03/MD5E-s2927--2a698a0bb7e5e7a3db4859539005a54b.spec/MD5E-s2927--2a698a0bb7e5e7a3db4859539005a54b.spec

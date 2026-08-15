@@ -1,0 +1,1 @@
+../../../.git/annex/objects/g2/vg/MD5E-s2928--cde2fc7d54ff3ebc50fc46c13c043971.spec/MD5E-s2928--cde2fc7d54ff3ebc50fc46c13c043971.spec

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/3g/kV/MD5E-s2926--388811177fb20b2150c3583e22c1ab6e.spec/MD5E-s2926--388811177fb20b2150c3583e22c1ab6e.spec
